@@ -37,5 +37,3 @@ I am an ambitious graduate with a MSc. in Mathematics from University of Copenha
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="30" height="30"/>&nbsp;
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/VasileiaVagena)
-    
