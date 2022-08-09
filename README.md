@@ -10,19 +10,20 @@
   </a>
 </div>
 
-### Hi there 👋
+### Hi there, I'm Vasileia 👋
 
-<!--
-**VasileiaVagena/VasileiaVagena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an ambitious graduate with a MSc. in Mathematics from University of Copenhagen with interest in Data Science and Machine Learning.
+
+- :telescope: I'm currently working on projects that I find online.
+
+- :eyes: I'm interested in learning more about Machine Learning and gain experience coding in Python.
+   
+- :seedling: I love learning new skills through online courses offered by [Udemy](https://www.udemy.com/).
+
+- :mailbox:How to reach me: vasiliavagena@gmail.com
+
+
