@@ -16,13 +16,15 @@
 
 ### :woman_technologist: About Me :
 
-I am an ambitious graduate with a MSc. in Mathematics from University of Copenhagen with interest in Data Science and Machine Learning.
+I am an ambitious graduate with a MSc. in Mathematics from University of Copenhagen with interest in technology, Machine learning and AI.
 
-- :telescope: I'm currently working on projects that I find online.
+- :telescope: Currently working on various online projects, including SQL, Python, and Tableau.
 
-- :eyes: I'm interested in learning more about Machine Learning and gain experience coding in Python.
+- :eyes: Eager to expend my skills in MySQL, AI and THE Power Platform, while building experience through hands-on coding and analytics projects.
    
-- :seedling: I love learning new skills through online courses offered by [Udemy](https://www.udemy.com/).
+- :seedling: Love learning new skills through online courses offered by [Udemy](https://www.udemy.com/).
+
+- briefcase: Former Technical Product Analyst with experience in SQL, and product insights.
 
 - :mailbox:How to reach me: vasiliavagena@gmail.com
 
@@ -31,6 +33,7 @@ I am an ambitious graduate with a MSc. in Mathematics from University of Copenha
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anacoda" alt="Anacoda" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
