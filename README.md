@@ -24,7 +24,7 @@ I am an ambitious graduate with a MSc. in Mathematics from University of Copenha
    
 - :seedling: Love learning new skills through online courses offered by [Udemy](https://www.udemy.com/).
 
-- briefcase: Former Technical Product Analyst with experience in SQL, and product insights.
+- :briefcase: Former Technical Product Analyst with experience in SQL, and product insights.
 
 - :mailbox:How to reach me: vasiliavagena@gmail.com
 
